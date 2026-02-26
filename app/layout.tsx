@@ -35,6 +35,7 @@ export default function RootLayout({
             <nav className="space-x-4">
               <a className="underline" href="/projects">Projects</a>
               <a className="underline" href="/resume">Resume</a>
+			  <a className="underline" href="/security">Security</a>
               <a
                 className="underline"
                 href="https://github.com/imdocsoc"
